@@ -1,7 +1,7 @@
 // Quinta soluzione utilizzando includes (Miglioramento della terza soluzione)
 const lampadina = document.getElementById("immagine");
 const bottone = document.getElementById("tasto");
-let accesa = false;
+let accesa = false; // parto da questa variabile
 
 bottone.addEventListener("click", () => {
 
