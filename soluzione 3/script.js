@@ -12,4 +12,4 @@ bottone.addEventListener("click", () => {
         lampadina.src = 'img/yellow_lamp.png';
         bottone.innerHTML = "Spegni";
     }
-})
+});
