@@ -1,4 +1,4 @@
-// Terza soluzione utilizzando includes
+// Terza soluzione utilizzando includes (meno efficiente della quinta perchè se dovessi cambiare percorso dell'img, "accesa" mi restituirebbe sempre false e non entrerebbe mai nell'if)
 const lampadina = document.getElementById("immagine");
 const bottone = document.getElementById("tasto");
 
