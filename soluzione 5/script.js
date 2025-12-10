@@ -1,4 +1,4 @@
-// Quinta soluzione utilizzando includes (Miglioramento della terza soluzione)
+// Quinta soluzione utilizzando includes
 const lampadina = document.getElementById("immagine");
 const bottone = document.getElementById("tasto");
 let accesa = false; // parto da questa variabile

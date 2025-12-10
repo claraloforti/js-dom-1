@@ -1,4 +1,4 @@
-// Quarta soluzione utilizzando display none
+// Quarta soluzione utilizzando display none e operatore ternario
 
 const spenta = document.getElementById("w-lamp");
 const accesa = document.getElementById("y-lamp");
