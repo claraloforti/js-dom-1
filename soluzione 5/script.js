@@ -1,7 +1,7 @@
-// Quinta soluzione utilizzando includes
+// Quinta soluzione
 const lampadina = document.getElementById("immagine");
 const bottone = document.getElementById("tasto");
-let accesa = false; // parto da questa variabile
+let accesa = false; // creo questa variabile booleana partendo dal valore false
 
 bottone.addEventListener("click", () => {
 
